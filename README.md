@@ -1,2 +1,2 @@
-# burger-builder-
+# burger-builder
 First React Project 
